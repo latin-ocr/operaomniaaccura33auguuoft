@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaaccura33auguuoft_0579.png"; bbox 0 0 1763 2838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 533 1384 1569 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 533 1384 1569 1537">
+     <span class='ocr_line' id='line_1_1' title="bbox 690 1384 1411 1435; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 690 1385 885 1435; x_wconf 72' lang='lat' dir='ltr'><strong>PuiAse</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 913 1385 998 1434; x_wconf 84' lang='lat' dir='ltr'>Do</span> <span class='ocrx_word' id='word_1_3' title='bbox 1025 1385 1147 1434; x_wconf 88' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1175 1384 1411 1435; x_wconf 67' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 533 1485 1569 1537; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 533 1486 723 1537; x_wconf 71' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_6' title='bbox 746 1485 828 1536; x_wconf 74' lang='lat' dir='ltr'>ok</span> <span class='ocrx_word' id='word_1_7' title='bbox 852 1486 994 1536; x_wconf 80' lang='lat' dir='ltr'>SUPS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1019 1485 1181 1535; x_wconf 65' lang='lat' dir='ltr'><strong>PROM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1204 1486 1328 1536; x_wconf 76' lang='lat' dir='ltr'>Tffls</span> <span class='ocrx_word' id='word_1_10' title='bbox 1353 1487 1569 1536; x_wconf 76' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 553 1686 1552 1738">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 553 1686 1552 1738">
+     <span class='ocr_line' id='line_1_3' title="bbox 553 1686 1552 1738; baseline -0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 553 1688 881 1738; x_wconf 69' lang='grc' dir='ltr'>υΝΝΕΙὶδΙΤΥ</span> <span class='ocrx_word' id='word_1_12' title='bbox 907 1687 985 1736; x_wconf 74' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1010 1686 1295 1736; x_wconf 71' lang='grc' dir='ltr'>ΤΟΚΟΝΤΟ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1325 1688 1552 1736; x_wconf 70' lang='grc' dir='ltr'>ῑΙΒΙὲΑΕΥ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
